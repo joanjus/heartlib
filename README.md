@@ -52,7 +52,7 @@ Join on Discord! [<img alt="join discord" src="https://img.shields.io/discord/84
 
 - 🚀 **23 Jan. 2026**
 
-    By leveraging Direct Preference Optimization, we have continuously refined our model and are proud to officially release **HeartMuLa-RL-oss-3B-20260123**. This version is designed to achieve more precise control over styles and tags. Simultaneously, we are launching **HeartCodec-oss-20260123**, which optimizes audio decoding quality.
+    By leveraging Reinforcement Learning, we have continuously refined our model and are proud to officially release **HeartMuLa-RL-oss-3B-20260123**. This version is designed to achieve more precise control over styles and tags. Simultaneously, we are launching **HeartCodec-oss-20260123**, which optimizes audio decoding quality.
 
 - 🫶 **20 Jan. 2026** 
     
