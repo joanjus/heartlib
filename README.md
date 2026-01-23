@@ -206,6 +206,7 @@ Just another day
 Every single day
 ```
 
+Regarding tags, check this [issue](https://github.com/HeartMuLa/heartlib/issues/17) for reference.
 Our different tags are comma-separated without spaces as illustrated below:
 ```txt
 piano,happy,wedding,synthesizer,romantic
