@@ -1,11 +1,7 @@
-__pycache__/
-**.pyc
-checkpoint/
-.DS_Store
-**.wav
-**.mp3
-.vscode/
-**.egg-info/
-build/
-.idea/
 ckpt/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+Thumbs.db
+.DS_Store
